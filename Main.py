@@ -2,10 +2,11 @@ import user_actions
 
 
 def main():
+    print("Welcome to the Library Terminal!")
 
     while True:
         # Displaying the menu options
-        print('\nLibrary Terminal')
+        print('\nMain Menu')
         print('1. Display all books')
         print('2. Search for a book by author')
         print('3. Search for a book by title')
